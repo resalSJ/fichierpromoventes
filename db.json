@@ -1,0 +1,137 @@
+{
+  "article" : [
+    {
+      "articleid" : "1",
+      "designationarticle" : "Lait Nido",
+      "categorie" : "Alimentation",
+      "souscategorie" : "",
+      "descriptionarticle" : "",
+      "imagearticle" : "",
+      "enpromotion" : "OUI",
+      "prixnormal" : "20",
+      "quantitestock" : "150"
+    },
+    {
+     "articleid" : "2",
+      "designationarticle" : "Lait Nido",
+      "categorie" : "Alimentation",
+      "souscategorie" : "",
+      "descriptionarticle" : "",
+      "imagearticle" : "",
+      "enpromotion" : "OUI",
+      "prixnormal" : "20",
+      "quantitestock" : "150"
+    },
+    {
+      "articleid" : "3",
+      "designationarticle" : "Lait Nido",
+      "categorie" : "Alimentation",
+      "souscategorie" : "",
+      "descriptionarticle" : "",
+      "imagearticle" : "",
+      "enpromotion" : "OUI",
+      "prixnormal" : "20",
+      "quantitestock" : "150"
+    },
+  ],
+  "promotion" : [
+    {
+      "promotionid" : "1",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "2",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "3",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "4",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "5",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "6",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "7",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "8",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "9",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "10",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "11",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "12",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "13",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+    {
+      "promotionid" : "14",
+      "designationpromotion" : "Promotion des ventes Saint Valentin",
+      "typepromotion" : "Temporaire",
+      "detailpromotion" : "Promotion incluant un lot d'article"
+    
+    },
+  ],
+}
