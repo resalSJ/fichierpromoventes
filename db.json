@@ -9,7 +9,7 @@
       "imagearticle" : "",
       "enpromotion" : "OUI",
       "prixnormal" : "20",
-      "quantitestock" : "150"
+      "quantiteestock" : "150"
     },
     {
      "articleid" : "2",
@@ -20,7 +20,7 @@
       "imagearticle" : "",
       "enpromotion" : "OUI",
       "prixnormal" : "20",
-      "quantitestock" : "150"
+      "quantiteestock" : "150"
     },
     {
       "articleid" : "3",
@@ -31,7 +31,7 @@
       "imagearticle" : "",
       "enpromotion" : "OUI",
       "prixnormal" : "20",
-      "quantitestock" : "150"
+      "quantiteestock" : "150"
     }
   ],
   "promotion" : [
