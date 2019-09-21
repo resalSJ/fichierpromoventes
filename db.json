@@ -6,32 +6,32 @@
       "categorie" : "Alimentation",
       "souscategorie" : "",
       "descriptionarticle" : "",
-      "imagearticle" : "",
+      "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/81aIdVIeKxL._SL1500_.jpg?raw=true",
       "enpromotion" : "OUI",
       "prixnormal" : "20",
-      "quantiteestock" : "150"
+      "quantiteestock" : "52"
     },
     {
      "articleid" : "2",
-      "designationarticle" : "Lait Nido",
+      "designationarticle" : "Thé Lipton",
       "categorie" : "Alimentation",
       "souscategorie" : "",
       "descriptionarticle" : "",
-      "imagearticle" : "",
+      "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/200%20biscuits%20monbana.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "20",
+      "prixnormal" : "9",
       "quantiteestock" : "150"
     },
     {
       "articleid" : "3",
-      "designationarticle" : "Lait Nido",
+      "designationarticle" : "Biscuit Leibniz",
       "categorie" : "Alimentation",
       "souscategorie" : "",
-      "descriptionarticle" : "",
-      "imagearticle" : "",
+      "descriptionarticle" : "Minis chocos",
+      "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/biscuit%20leibniz.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "20",
-      "quantiteestock" : "150"
+      "prixnormal" : "2",
+      "quantiteestock" : "178"
     }
   ],
   "promotion" : [
