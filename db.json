@@ -9,7 +9,7 @@
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/81aIdVIeKxL._SL1500_.jpg?raw=true",
       "enpromotion" : "OUI",
       "prixnormal" : "20",
-      "quantiteestock" : "52"
+      "quantiteenstock" : "52"
     },
     {
      "articleid" : "2",
@@ -20,7 +20,7 @@
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/200%20biscuits%20monbana.jpg?raw=true",
       "enpromotion" : "OUI",
       "prixnormal" : "9",
-      "quantiteestock" : "150"
+      "quantiteenstock" : "150"
     },
     {
       "articleid" : "3",
@@ -31,7 +31,7 @@
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/biscuit%20leibniz.jpg?raw=true",
       "enpromotion" : "OUI",
       "prixnormal" : "2",
-      "quantiteestock" : "178"
+      "quantiteenstock" : "178"
     }
   ],
   "promotion" : [
