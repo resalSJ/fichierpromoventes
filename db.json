@@ -206,24 +206,6 @@
       "duree" : "30",
       "pourcentage_reduction" : "",
       "estactive" : "OUI"
-    },
-    {
-      "articleid" : "2",
-      "promotionid" : "2",
-      "datedebut" : "12/09/2019",
-      "prixpromotionnel" : "15",
-      "duree" : "20",
-      "pourcentage_reduction" : "",
-      "estactive" : "OUI"
-    },
-    {
-      "articleid" : "20",
-      "promotionid" : "2",
-      "datedebut" : "12/09/2019",
-      "prixpromotionnel" : "15",
-      "duree" : "30",
-      "pourcentage_reduction" : "",
-      "estactive" : "OUI"
     }
   ]
 }
