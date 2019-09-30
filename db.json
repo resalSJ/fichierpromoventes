@@ -1,7 +1,6 @@
 {
   "article" : [
     {
-      "articleid" : "1",
       "designationarticle" : "Lait Nido",
       "categorie" : "Alimentation",
       "descriptionarticle" : "Lait adapté aux adultes, enfants, bébés, nourrissons",
@@ -11,7 +10,6 @@
       "quantiteenstock" : "52 boites"
     },
     {
-     "articleid" : "2",
       "designationarticle" : "Thé Lipton",
       "categorie" : "Alimentation",
       "descriptionarticle" : "thé du Kenya",
@@ -21,7 +19,6 @@
       "quantiteenstock" : "150 cartons"
     },
     {
-      "articleid" : "3",
       "designationarticle" : "Biscuit Leibniz",
       "categorie" : "Alimentation",
       "descriptionarticle" : "Minis chocos, sucrés et chocolatés",
@@ -31,7 +28,6 @@
       "quantiteenstock" : "178 cartons"
     },
      {
-      "articleid" : "4",
       "designationarticle" : "mandarine",
       "categorie" : "Fruits",
       "descriptionarticle" : "fruits sucrés",
@@ -41,7 +37,6 @@
       "quantiteenstock" : "140 cartons"
     },
      {
-      "articleid" : "5",
       "designationarticle" : "Pastèque",
       "categorie" : "Fruits",
       "descriptionarticle" : "Fruits frais, sucrés, doux et appétissants",
@@ -51,7 +46,6 @@
       "quantiteenstock" : "25 cartons"
     },
      {
-      "articleid" : "6",
       "designationarticle" : "Bougies pour anniversaire",
       "categorie" : "Anniversaire",
       "descriptionarticle" : "bougies de petite taille, à souffle aisément pour votre anniversaire",
@@ -61,7 +55,6 @@
       "quantiteenstock" : "100 cartons"
     },
      {
-      "articleid" : "7",
       "designationarticle" : "Biscuit Leibniz",
       "categorie" : "Alimentation",
       "descriptionarticle" : "Minis chocos, sucrés et chocolatés",
@@ -71,7 +64,6 @@
       "quantiteenstock" : "178"
     },
      {
-      "articleid" : "8",
       "designationarticle" : "Sardines",
       "categorie" : "Alimentation",
       "descriptionarticle" : "Sardines, avec sauce à la tomate, sauce piquante",
@@ -81,7 +73,6 @@
       "quantiteenstock" : "154 cartons"
     },
      {
-      "articleid" : "9",
       "designationarticle" : "Chocolat MONBANA",
       "categorie" : "Alimentation",
       "descriptionarticle" : "Carrés de chocolat Noir Monbana (X200)",
@@ -91,7 +82,6 @@
       "quantiteenstock" : "178 cartons"
     },
      {
-      "articleid" : "10",
       "designationarticle" : "Lait",
       "categorie" : "Alimentation",
       "descriptionarticle" : "LIDDELLS lactose free 99 % fat free low fat milk",
@@ -101,7 +91,6 @@
       "quantiteenstock" : "125 boites"
     },
      {
-      "articleid" : "11",
       "designationarticle" : "Choux de chine",
       "categorie" : "Alimentation",
       "descriptionarticle" : "Légumes à feuilles, Chou chinois Orient ",
@@ -113,12 +102,10 @@
   ],
   "promotion" : [
     {
-      "promotionid" : "1",
       "designationpromotion" : "Promotion temporaire",
       "detailpromotion" : "Promotion incluant un lot d'article"
     },
     {
-      "promotionid" : "2",
       "designationpromotion" : "Promotion Jubilé de Diamant",
       "detailpromotion" : "Promotion sur tous les articles"
     }
