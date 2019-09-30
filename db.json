@@ -7,7 +7,7 @@
       "descriptionarticle" : "Lait adapté aux adultes, enfants, bébés, nourrissons",
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/81aIdVIeKxL._SL1500_.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "20000 FC",
+      "prixarticle" : "20000 FC",
       "quantiteenstock" : "52 boites"
     },
     {
@@ -17,7 +17,7 @@
       "descriptionarticle" : "thé du Kenya",
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/200%20biscuits%20monbana.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "9000 FC",
+      "prixarticle" : "9000 FC",
       "quantiteenstock" : "150 cartons"
     },
     {
@@ -27,7 +27,7 @@
       "descriptionarticle" : "Minis chocos, sucrés et chocolatés",
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/biscuit%20leibniz.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "2000 FC",
+      "prixarticle" : "2000 FC",
       "quantiteenstock" : "178 cartons"
     },
      {
@@ -37,7 +37,7 @@
       "descriptionarticle" : "fruits sucrés",
       "imagearticle" : "https://img-3.journaldesfemmes.fr/Kzj8RKSWi6rqF9RJ3exWH8UB-hE=/910x607/smart/2999942f22784358bbcecbd204d89fb3/ccmcms-jdf/10660242.jpg",
       "enpromotion" : "OUI",
-      "prixnormal" : "450 FC",
+      "prixarticle" : "450 FC",
       "quantiteenstock" : "140 cartons"
     },
      {
@@ -47,7 +47,7 @@
       "descriptionarticle" : "Fruits frais, sucrés, doux et appétissants",
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/biscuit%20leibniz.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "5000 FC",
+      "prixarticle" : "5000 FC",
       "quantiteenstock" : "25 cartons"
     },
      {
@@ -57,7 +57,7 @@
       "descriptionarticle" : "bougies de petite taille, à souffle aisément pour votre anniversaire",
       "imagearticle" : "https://www.la-fee-decoration.com/c/496-category_default/bougies-pour-anniversaire.jpg",
       "enpromotion" : "OUI",
-      "prixnormal" : "1500 FC",
+      "prixarticle" : "1500 FC",
       "quantiteenstock" : "100 cartons"
     },
      {
@@ -67,7 +67,7 @@
       "descriptionarticle" : "Minis chocos, sucrés et chocolatés",
       "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/biscuit%20leibniz.jpg?raw=true",
       "enpromotion" : "OUI",
-      "prixnormal" : "2",
+      "prixarticle" : "2",
       "quantiteenstock" : "178"
     },
      {
@@ -77,7 +77,7 @@
       "descriptionarticle" : "Sardines, avec sauce à la tomate, sauce piquante",
       "imagearticle" : "https://images-na.ssl-images-amazon.com/images/I/911MOrvukUL._AC_SL1500_.jpg",
       "enpromotion" : "OUI",
-      "prixnormal" : "1000",
+      "prixarticle" : "1000",
       "quantiteenstock" : "154 cartons"
     },
      {
@@ -87,7 +87,7 @@
       "descriptionarticle" : "Carrés de chocolat Noir Monbana (X200)",
       "imagearticle" : "https://images-na.ssl-images-amazon.com/images/I/71yF%2B7lmpaL._AC_SL1500_.jpg",
       "enpromotion" : "OUI",
-      "prixnormal" : "6000 FC",
+      "prixarticle" : "6000 FC",
       "quantiteenstock" : "178 cartons"
     },
      {
@@ -97,7 +97,7 @@
       "descriptionarticle" : "LIDDELLS lactose free 99 % fat free low fat milk",
       "imagearticle" : "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/GH1400550_liddells_lactose_free_low_fat_milk_1l.jpg/resize?size=706&auth=MjA5OTcwODkwMg__",
       "enpromotion" : "OUI",
-      "prixnormal" : "15000 FC",
+      "prixarticle" : "15000 FC",
       "quantiteenstock" : "125 boites"
     },
      {
@@ -107,7 +107,7 @@
       "descriptionarticle" : "Légumes à feuilles, Chou chinois Orient ",
       "imagearticle" : "https://mediasv6.truffaut.com/Articles/jpg/0352000/352031_002_1000.jpg",
       "enpromotion" : "OUI",
-      "prixnormal" : "1500 FC",
+      "prixarticle" : "1500 FC",
       "quantiteenstock" : "178 choux"
     }
   ],
