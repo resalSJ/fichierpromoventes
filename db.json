@@ -114,15 +114,13 @@
   "promotion" : [
     {
       "promotionid" : "1",
-      "designationpromotion" : "Promotion des ventes Saint Valentin",
-      "typepromotion" : "Temporaire",
+      "designationpromotion" : "Promotion temporaire",
       "detailpromotion" : "Promotion incluant un lot d'article"
     },
     {
       "promotionid" : "2",
-      "designationpromotion" : "Promotion des ventes Saint Valentin",
-      "typepromotion" : "Temporaire",
-      "detailpromotion" : "Promotion incluant un lot d'article"
+      "designationpromotion" : "Promotion Jubilé de Diamant",
+      "detailpromotion" : "Promotion sur tous les articles"
     }
   ]
 }
