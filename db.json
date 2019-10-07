@@ -103,11 +103,13 @@
   "promotion" : [
     {
       "designationpromotion" : "Promotion temporaire",
-      "detailpromotion" : "Promotion incluant un lot d'article"
+      "detailpromotion" : "Promotion incluant un lot d'article",
+      "etatpromotion" : "STOPPE"
     },
     {
       "designationpromotion" : "Promotion Jubilé de Diamant",
-      "detailpromotion" : "Promotion sur tous les articles"
+      "detailpromotion" : "Promotion sur tous les articles",
+      "etatpromotion" : "EN COURS"
     }
   ]
 }
