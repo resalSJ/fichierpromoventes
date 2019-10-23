@@ -13,7 +13,7 @@
       "designationarticle" : "Thé Lipton",
       "categorie" : "Alimentation",
       "descriptionarticle" : "thé du Kenya",
-      "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/200%20biscuits%20monbana.jpg?raw=true",
+      "imagearticle" : "https://www.direct-fournitures.fr/12750-large_default/lipton-boite-de-25-sachets-de-the-yellow-label.jpg",
       "enpromotion" : "OUI",
       "prixarticle" : "9000 FC",
       "quantiteenstock" : "150 cartons"
@@ -37,13 +37,13 @@
       "quantiteenstock" : "140 cartons"
     },
      {
-      "designationarticle" : "Pastèque",
-      "categorie" : "Fruits",
+      "designationarticle" : "Gateau anniversaire",
+      "categorie" : "Anniversaire",
       "descriptionarticle" : "Fruits frais, sucrés, doux et appétissants",
-      "imagearticle" : "https://github.com/resalSJ/fichierpromoventes/blob/master/biscuit%20leibniz.jpg?raw=true",
+      "imagearticle" : "https://www.latableadessert.fr/sites/default/files/styles/mega_fiche/public/images/recipe/field_recipe_single_carousel_img/recette-gateau-anniversaire-chocolats_14051_0.jpg?itok=-9q0q6sR",
       "enpromotion" : "OUI",
-      "prixarticle" : "5000 FC",
-      "quantiteenstock" : "25 cartons"
+      "prixarticle" : "25000 FC",
+      "quantiteenstock" : "25 en stock"
     },
      {
       "designationarticle" : "Bougies pour anniversaire",
@@ -91,21 +91,16 @@
       "quantiteenstock" : "125 boites"
     },
      {
-      "designationarticle" : "Choux de chine",
-      "categorie" : "Alimentation",
-      "descriptionarticle" : "Légumes à feuilles, Chou chinois Orient ",
-      "imagearticle" : "https://mediasv6.truffaut.com/Articles/jpg/0352000/352031_002_1000.jpg",
+      "designationarticle" : "Pastèques",
+      "categorie" : "Fruits",
+      "descriptionarticle" : "Fruits succulents et extremement juteux.",
+      "imagearticle" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkhB0YN0behg-vNfm1PY2resJdclpCSpStISA1LfdQW1LMjEsc&s",
       "enpromotion" : "OUI",
-      "prixarticle" : "1500 FC",
+      "prixarticle" : "5000 FC",
       "quantiteenstock" : "178 choux"
     }
   ],
   "promotion" : [
-    {
-      "designationpromotion" : "Promotion temporaire",
-      "detailpromotion" : "Promotion incluant un lot d'article",
-      "etatpromotion" : "STOPPE"
-    },
     {
       "designationpromotion" : "Promotion Jubilé de Diamant",
       "detailpromotion" : "Promotion sur tous les articles",
